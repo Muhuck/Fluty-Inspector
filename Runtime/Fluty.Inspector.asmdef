@@ -1,7 +1,11 @@
 {
   "name": "Fluty.Inspector",
-  "references": [],
-  "includePlatforms": [],
+  "references": [
+    "Fluty.Inspector"
+  ],
+  "includePlatforms": [
+    "Editor"
+],
   "excludePlatforms": [],
   "allowUnsafeCode": false
 }
