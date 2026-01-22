@@ -1,0 +1,12 @@
+{
+  "name": "com.fluty.inspector",
+  "displayName": "Fluty Inspector",
+  "version": "1.0.0",
+  "unity": "6000.3.3f1",
+  "description": "Unity Editor tooling for building cleaner Inspectors with buttons, grouping, and layout helpers.",
+  "author": {
+    "name": "Muhuck",
+    "url": "https://github.com/muhuck"
+  },
+  "license": "MIT"
+}

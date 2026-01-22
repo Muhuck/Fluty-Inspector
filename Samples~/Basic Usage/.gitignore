@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# Unity (package context)
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Unity cache
+*.pidb
+*.booproj
+
+# Test & coverage
+TestResults/
+Coverage/
+
+# Backup files
+*.bak
+*.tmp

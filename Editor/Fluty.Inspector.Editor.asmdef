@@ -1,0 +1,9 @@
+{
+  "name": "Fluty.Inspector.Editor",
+  "references": [
+    "Fluty.Inspector"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
