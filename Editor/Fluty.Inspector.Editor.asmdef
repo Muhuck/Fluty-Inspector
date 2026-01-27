@@ -4,7 +4,6 @@
     "Fluty.Inspector"
   ],
   "includePlatforms": [
-    "Editor",
-    "Runtime"
+    "Editor"
   ]
 }
