@@ -38,11 +38,14 @@ Fluty Inspector is designed to be:
 
 ---
 
-## Installation
+## Installation (Method 1: Unity Package Manager – Recommended)
 
-1. Download or clone this repository
-2. Copy the `FlutyInspector` folder into your Unity project
-
+1. Open your Unity project.
+2. Navigate to **Window > Package Manager**.
+3. Click the **+ (plus)** button in the top-left corner.
+4. Select **Add package from git URL...**.
+5. Enter the following Git URL: https://github.com/Muhuck/Fluty-Inspector.git
+6. 6. Click **Add** and wait for Unity to finish importing the package.
 
 > All editor scripts must remain inside an `Editor` folder.
 
